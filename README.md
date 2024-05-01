@@ -13,6 +13,7 @@ while wait(0.4) do
         wait(0.2)
         game.workspace.Buses["3554173983:Bus"]:SetPrimaryPartCFrame(CFrame.new(1305.6409912109375, 6.819954872131348, 999.3180541992188)) --facing default way
     end
-end```
+end
+```
 
-he couldn't make autofarm so I made it myself for my great skidding
+-- he couldn't make autofarm so I made it myself for my great skidding
